@@ -1,0 +1,10 @@
+.env
+node_modules/
+dist/
+.llmwiki/
+.llm-wiki/
+/wiki/
+/sources/
+*.tmp
+.DS_Store
+localdocs/
